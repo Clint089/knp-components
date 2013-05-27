@@ -1,5 +1,5 @@
 {
-    "name":        "knplabs/knp-components",
+    "name":        "clint089/knp-components",
     "type":        "library",
     "description": "Knplabs component library",
     "keywords":    ["components", "paginator", "pager", "knp", "knplabs"],
